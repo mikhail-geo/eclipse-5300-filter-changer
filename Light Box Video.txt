@@ -1,0 +1,8 @@
+<a href="javascript:void(0);"
+   class="olera-video-link"
+   onclick="HMShowVideoLightbox(event, this, '&lt;div style=&quot;position:relative;overflow:hidden;width:100%;height:100%&quot;&gt;&lt;object width=&quot;1920&quot; height=&quot;1080&quot; style=&quot;top:0;left:0;width:100%;height:100%;position:absolute&quot; type=&quot;video/mp4&quot; data=&quot;VIDEO_FILE.mp4&quot;&gt;&lt;param name=&quot;src&quot; value=&quot;VIDEO_FILE.mp4&quot; /&gt;&lt;param name=&quot;filename&quot; value=&quot;VIDEO_FILE.mp4&quot; /&gt;&lt;param name=&quot;autostart&quot; value=&quot;false&quot; /&gt;&lt;param name=&quot;autoplay&quot; value=&quot;false&quot; /&gt;&lt;param name=&quot;showcontrols&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;controller&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;loop&quot; value=&quot;false&quot; /&gt;&lt;video style=&quot;width:100%;height:100%&quot; controls&gt;&lt;source src=&quot;VIDEO_FILE.mp4&quot; type=&quot;video/mp4&quot; /&gt;&lt;/video&gt;&lt;/object&gt;&lt;/div&gt;',1920,1080); return false;"
+   title="Watch Video">
+  <img src="%BAGGAGE%/camera_icon.png"
+       alt="Video"
+       class="olera-video-icon" />
+</a>
